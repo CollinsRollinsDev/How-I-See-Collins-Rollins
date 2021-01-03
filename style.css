@@ -1,0 +1,222 @@
+body {
+
+    font-size: 15pt;
+
+    height: 100vh;
+
+    background-color:#ececec;
+
+    background-image: url("https://i.imgur.com/tUCnKHi.jpg");
+
+    background-size: cover;
+
+    background-repeat: no-repeat ;
+
+    background-position: center;
+
+  
+
+}
+
+h1 {
+
+  font-size:22px;
+
+  text-align:center;
+
+  color:white;
+
+  padding-top:10px;
+
+}
+
+.collinsDiv {
+
+  border-radius:100%;
+
+  background-color:white;
+
+  width:50px;
+
+  height:50px;
+
+  margin:auto;
+
+  visibility:hidden;
+
+}
+
+.theContainer {
+
+  height:270px;
+
+  width:90%;
+
+  margin-top:25px;
+
+  background-color:/* #5B5C64 */ transparent;
+
+  margin-left:5%;
+
+  border-color:#acacac;
+
+  border-style:solid;
+
+  border-radius:10px;
+
+  position:relative;
+
+  
+
+ /* background-image: url("https://i.imgur.com/1de2cBW.jpg");
+
+    background-size: cover;
+
+    background-repeat: no-repeat ;
+
+    background-position: center;
+
+  */
+
+}
+
+.imgDiv{
+
+  background-color:white;
+
+  width:70px;
+
+  position:absolute;
+
+  height:70px;
+
+  margin:10px 38%;
+
+  border-radius:100%;
+
+  
+
+  background-image: url("https://i.imgur.com/1de2cBW.jpg");
+
+    background-size: cover;
+
+    background-repeat: no-repeat ;
+
+    background-position: center;
+
+  
+
+}
+
+.starRate {
+
+  position:absolute;
+
+  top:105px ;
+
+  left:30%;
+
+  color:white;
+
+  text-shadow :1px 1px 1px black ;
+
+  
+
+}
+
+.starDefault {
+
+  position:absolute;
+
+  top:105px ;
+
+  left:30%;
+
+  opacity:0.4;
+
+  color:white;
+
+  text-shadow:1px 1px 1px black;
+
+  
+
+}
+
+p {
+
+  font-size:15px;
+
+  color:white;
+
+  text-align :center;
+
+  font-family:Sans-Serif;
+
+  position:relative;
+
+  top:60px;
+
+  text-shadow:1px 1px 1px black ;
+
+  padding:20px ;
+
+}
+
+button {
+
+  outline:none;
+
+  width:30%;
+
+  margin:20px;
+
+  margin-left:30px;
+
+  display:inline-block ;
+
+  visibility:hidden ;
+
+}
+
+h2 {
+
+  color:white;
+
+  position :relative;
+
+  top:66px ;
+
+  font-size:20px;
+
+  text-align:center;
+
+}
+
+.fa-arrow-left {
+
+  font-size:28px;
+
+  color:white;
+
+  padding :0 10%;
+
+  margin-left:15%;
+
+  Margin-top:20px;
+
+}
+
+.fa-arrow-right {
+
+  font-size:28px;
+
+  color:white;
+
+  padding :0 10%;
+
+  margin-left:13%;
+
+  Margin-top:20px;
+
+}
+
